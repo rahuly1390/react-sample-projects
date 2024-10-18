@@ -1,0 +1,162 @@
+.bg-body-tech{
+  background-color: #5627d8;
+}
+.bg-body-tech .nav-link{
+  color: white !important;
+}
+.dropdown-menu{
+  background-color: #5627d8 !important;
+}
+.dropdown-item{
+  color: white !important;
+}
+.dropdown-item:active{
+  background-color: rgb(51 15 149) !important;
+}
+.dropdown-item:hover, .dropdown-item:focus{
+  background-color: rgb(51 15 149) !important;
+}
+.navbar-toggler{
+  color: white !important;
+}
+.text-custom{
+  color: #5627d8 !important;
+}
+.nav-tabs .nav-link.active{
+  color: #5627d8 !important;
+  border-top-left-radius:0px !important;
+  border-top-right-radius:0px !important;
+  border-top:3px solid #5627d8 !important;
+}
+.nav-link{
+  color: #5627d8 !important;
+}
+
+.accordion-button:focus{
+  border-color:#5627d8 !important;
+  box-shadow: none !important;
+}
+.accordion-button:not(.collapsed){
+  background-color: #5627d8 !important;
+  color:white !important;
+}
+.footer{
+  background: #5627d8;
+  color: white;
+  display: flex;
+  height: 44px;
+  position: sticky;
+  bottom: 0;
+}
+.footer-item {
+  justify-content: space-between;
+  display: inline-flex;
+  margin: auto;
+  font-size: small;
+}
+.list-display{
+  padding-left: 0rem;
+  margin: 1rem;
+}
+.App{
+  background-color: #eee;
+}
+.bg-card{
+  background-color: white;
+}
+.bg-card .card{
+  border:none !important;
+}
+.alerts-icon{
+  position: absolute;
+  top: 13px;
+  border-radius: 50% !important;
+  right: 130px !important;
+}
+.view-all{
+  font-size: 0.9rem;
+  margin-right: auto;
+  float: right;
+  margin-top: 8px;
+}
+.br-5{
+  border-radius: 50% !important;
+}
+.link-class{
+  color: #fff;
+    text-decoration: none;
+    padding: 0.5rem;
+}
+.section-header{
+  background-color: #fff;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+.section-banner{
+  background-image: url("../src/assets/banner.jpg");
+  background-blend-mode: color;
+  background-repeat: no-repeat, repeat;
+  color: #fff;
+  padding: 1rem;
+  background-color: rgba(0,0,0,0.7);
+}
+.badge-icon{
+  padding: 1rem;
+  font-size: 3rem;
+  color: #5627d8;
+  margin: 0 auto;
+}
+.btn-custom{
+  background-color: #5627d8 !important;
+  color: #fff !important;
+  padding: 1rem;
+}
+.brand-logo{
+  color: #ffec05 !important;
+}
+.text-2l{
+  font-size: 1.5rem;
+}
+.badge-icon-retirement{
+  font-size: 4rem;
+  color: #fff;
+  margin: 0 auto;
+  height: 70px;
+}
+.badge-icon-retirement svg{
+  vertical-align: super !important;
+}
+.title-icon{
+  font-size: 1.5rem;
+    color: #fff;
+}
+.box-child {
+  padding: 0.5rem;
+  width: 14rem;
+}
+.box-child-big {
+  padding: 0.5rem;
+  width: 100%;
+  height: 20rem;
+}
+.custom-space{
+  margin-bottom: 0rem;
+  margin-top: 1rem;
+}
+.section-box{
+  padding: 1rem;
+  border: 1px dashed #ccc;
+  font-size: 1.5rem;
+  margin: 1rem;
+}
+.ml-1{
+  margin-left: 1rem;
+}
+.font-style{
+  font-style: italic;
+  font-weight: 300;
+}
+.section-content{
+  background-color: #fff;
+  padding: 1rem;
+}

@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "password": "admin123"
+    },
+    {
+      "id": 2,
+      "name": "user",
+      "password": "user123"
+    },
+    {
+      "id": 3,
+      "name": "Rahul",
+      "password": "qwert123"
+    },
+    {
+      "id": 4,
+      "name": "abc",
+      "password": "qwert123"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "dateOfJoining": "2020-01-01",
+      "email": "john.doe@example.com",
+      "mobileNo": 1234567890,
+      "salary": 50000,
+      "departmentId": 1
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "dateOfJoining": "2021-03-15",
+      "email": "jane.smith@example.com",
+      "mobileNo": 9876543219,
+      "salary": 60000,
+      "departmentId": 2
+    },
+    {
+      "name": "Aman",
+      "dateOfJoining": "2024-09-28T09:40:25.610Z",
+      "email": "aman@ey.com",
+      "mobileNo": "8976899999",
+      "salary": "4000",
+      "departmentId": 2,
+      "id": 3
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "HR"
+    },
+    {
+      "id": 2,
+      "name": "IT Desk"
+    },
+    {
+      "name": "Cust care",
+      "id": 3
+    },
+    {
+      "name": "Legal",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "abcd"
+    },
+    {
+      "id": 6,
+      "name": "Test1"
+    }
+  ]
+}
